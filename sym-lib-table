@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name shopify)(type Legacy)(uri /Users/wes/src/shopify/pcb/PCB/shopify.lib)(options "")(descr ""))
+)
